@@ -12,6 +12,9 @@ An important insight regarding data is that, it is an imbalanced data, so I have
 4. Dropping highly correlated features.
 5. Using Oversampling.
 
+## Data Preprocessing
+1. Normalization.
+
 ## Models used (with hyperparametre tuning):
 1. Random Forest 
 2. Light Gradient Boosting Classifier.
